@@ -1,3 +1,3 @@
-# Django Busines
+# Django Business
 
 Business administration django app
